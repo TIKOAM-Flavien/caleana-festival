@@ -1,0 +1,150 @@
+{
+  "site": {
+    "canonical_base": "https://caleanafestival.fr",
+    "ga4_id": "G-YVWMPJQ8PV",
+    "theme_color": "#3D1B6E",
+    "lang": "fr"
+  },
+  "common": {
+    "cta_label": "Découvrir le festival",
+    "cta_href": "/",
+    "nav_items": [
+      { "label": "Festival musique Mulhouse", "href": "/festival-musique-mulhouse/" },
+      { "label": "Festival électro Alsace", "href": "/festival-electro-alsace/" },
+      { "label": "Que faire ce week-end", "href": "/que-faire-mulhouse-weekend/" }
+    ],
+    "footer_items": [
+      { "label": "Page principale", "href": "/" },
+      { "label": "Festival musique Mulhouse", "href": "/festival-musique-mulhouse/" },
+      { "label": "Festival électro Alsace", "href": "/festival-electro-alsace/" }
+    ]
+  },
+  "pages": [
+    {
+      "slug": "festival-musique-mulhouse",
+      "title": "Festival musique Mulhouse 2026 – Électro, DJ sets et événements",
+      "meta_description": "Découvrez un festival de musique à Mulhouse avec DJ sets, animations et marché créateurs. Un événement incontournable en Alsace.",
+      "h1": "Festival musique à Mulhouse : un événement à ne pas manquer",
+      "blocks": [
+        {
+          "type": "card_main",
+          "paragraphs": [
+            "Vous cherchez un <strong>festival de musique à Mulhouse</strong> pour profiter d’une ambiance festive, découvrir des artistes et vivre une expérience originale en Alsace ?",
+            "Le <strong>Caleana Festival</strong> propose une programmation mêlant <strong>DJ sets</strong>, performances artistiques et animations dans un cadre unique.",
+            "Situé à <strong>Mulhouse</strong>, le festival attire chaque année un public varié : amateurs de musique électronique, curieux, familles et passionnés de culture locale."
+          ]
+        },
+        {
+          "type": "card",
+          "title": "Une programmation musicale variée",
+          "paragraphs": [
+            "Le festival met à l’honneur une sélection d’artistes avec des styles éclectiques : électro, house, techno et performances live.",
+            "Chaque édition est pensée pour créer une expérience immersive avec :"
+          ],
+          "list": ["DJ sets en continu", "performances artistiques", "ambiance festive et accessible"]
+        },
+        {
+          "type": "card",
+          "title": "Un festival au cœur de Mulhouse",
+          "paragraphs": [
+            "Facilement accessible, le festival s’inscrit dans la dynamique culturelle de Mulhouse et de l’Alsace.",
+            "C’est l’occasion idéale pour :"
+          ],
+          "list": ["découvrir la scène locale", "profiter d’un événement en plein air", "partager un moment convivial"]
+        },
+        {
+          "type": "card",
+          "title": "Pourquoi venir au Caleana Festival ?",
+          "list": [
+            "Une ambiance conviviale et ouverte",
+            "Une programmation artistique accessible",
+            "Un événement local ancré à Mulhouse",
+            "Une expérience différente des festivals classiques"
+          ],
+          "cta": { "label": "Découvrir la programmation complète", "href": "/" }
+        }
+      ]
+    },
+    {
+      "slug": "festival-electro-alsace",
+      "title": "Festival électro Alsace – DJ sets et musique électronique à Mulhouse",
+      "meta_description": "Festival électro en Alsace : découvrez un événement unique à Mulhouse avec DJ, performances et ambiance immersive.",
+      "h1": "Festival électro en Alsace : vivez l’expérience à Mulhouse",
+      "blocks": [
+        {
+          "type": "card_main",
+          "paragraphs": [
+            "L’Alsace accueille de plus en plus d’événements dédiés à la musique électronique. Si vous recherchez un <strong>festival électro en Alsace</strong>, le <strong>Caleana Festival</strong> à <strong>Mulhouse</strong> s’impose comme un rendez-vous à découvrir."
+          ]
+        },
+        {
+          "type": "card",
+          "title": "Une scène électro en plein essor",
+          "paragraphs": [
+            "La région alsacienne attire une nouvelle génération d’artistes et de publics autour de la musique électronique.",
+            "Le festival s’inscrit dans cette dynamique en proposant :"
+          ],
+          "list": ["DJ sets variés", "univers artistiques immersifs", "programmation accessible"]
+        },
+        {
+          "type": "card",
+          "title": "Une expérience immersive",
+          "paragraphs": ["Au-delà de la musique, le festival propose une expérience complète :"],
+          "list": ["scénographie", "animations", "espaces de rencontre"]
+        },
+        {
+          "type": "card",
+          "title": "Un événement à taille humaine",
+          "paragraphs": ["Contrairement aux grands festivals, le Caleana Festival mise sur :"],
+          "list": ["la proximité avec les artistes", "une ambiance conviviale", "une accessibilité pour tous"]
+        },
+        {
+          "type": "card",
+          "title": "Pourquoi choisir ce festival électro ?",
+          "list": ["situé en Alsace, à Mulhouse", "programmation éclectique", "cadre original", "atmosphère chaleureuse"],
+          "cta": { "label": "Consulter le programme complet", "href": "/" }
+        }
+      ]
+    },
+    {
+      "slug": "que-faire-mulhouse-weekend",
+      "title": "Que faire à Mulhouse ce week-end ? Festival, sorties et événements",
+      "meta_description": "Vous cherchez que faire à Mulhouse ce week-end ? Découvrez un festival avec musique, animations et marché créateurs.",
+      "h1": "Que faire à Mulhouse ce week-end ? Une idée de sortie originale",
+      "blocks": [
+        {
+          "type": "card_main",
+          "paragraphs": [
+            "Vous vous demandez <strong>que faire à Mulhouse ce week-end</strong> ? Entre culture, musique et événements locaux, la ville propose plusieurs options pour sortir et profiter.",
+            "Parmi les événements à ne pas manquer, le <strong>Caleana Festival</strong> offre une expérience complète mêlant musique, créativité et convivialité."
+          ]
+        },
+        {
+          "type": "card",
+          "title": "Une sortie idéale entre amis ou en famille",
+          "paragraphs": ["Le festival propose :"],
+          "list": ["DJ sets", "animations", "marché de créateurs", "ateliers"]
+        },
+        {
+          "type": "card",
+          "title": "Un événement local et créatif",
+          "paragraphs": ["En plus de la musique, le festival valorise :"],
+          "list": ["les créateurs locaux", "les initiatives artistiques", "les rencontres"]
+        },
+        {
+          "type": "card",
+          "title": "Pourquoi choisir un festival ce week-end ?",
+          "list": ["ambiance festive", "découverte artistique", "activité originale", "expérience différente des sorties classiques"]
+        },
+        {
+          "type": "card",
+          "title": "Profiter pleinement de Mulhouse",
+          "paragraphs": ["Participer à un festival est une excellente façon de :"],
+          "list": ["découvrir la ville autrement", "rencontrer du monde", "vivre une expérience locale"],
+          "cta": { "label": "Consulter les détails du festival", "href": "/" }
+        }
+      ]
+    }
+  ]
+}
+
